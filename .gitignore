@@ -1,6 +1,5 @@
-dist
+dist 
 node_modules
 *.log
-*.env
-.DS_Store   
 .gitignore
+.DS_Store
